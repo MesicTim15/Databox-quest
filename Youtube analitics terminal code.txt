@@ -1,0 +1,31 @@
+[
+ {
+               "$Likes": 0,
+               "date": "2021-07-11 13:00:00"
+        },
+        
+          {
+              "$Views_by_video": 13,
+              "date": "2021-06-16 13:00:00"
+        },
+        
+         {
+              "Watch_time_by_traffic_source": 2,
+              "date": "2021-06-16 13:00:00"
+        },
+        
+        {
+              "Comments": 0,
+              "date": "2021-06-16 13:00:00"
+        },
+        
+         {
+              "Views": 15,
+              "date": "2021-06-16 13:00:00"
+        },
+        
+         {
+              "Video_watch_time_by_traffic_source": 540,
+              "date": "2021-06-16 13:00:00"
+        }
+]
